@@ -7,5 +7,5 @@ import (
 
 func main() {
 	fmt.Println("This is a sample test")
-	fmt.Println("This is addition of 7 and 8: ", Add(7,8))
+	fmt.Println("This is addition of 7 and 8: ", addition.Add(7,8))
 }
