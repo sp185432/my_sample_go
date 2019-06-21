@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/sp185432/my_sample_go/addition"
+	"./addition"
 )
 
 func main() {
